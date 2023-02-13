@@ -1,2 +1,2 @@
 # UnsupervisedML_assignments
-This repository  contains coding assignments I completed during the course DS5230 Unsupervised Machine Learning.
+Use of Probabilistic graphical models, GAN, image clustering using PCA and TSNE, Market basket analysis using Apriori algorithm. 
